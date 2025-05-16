@@ -32,4 +32,5 @@ Anime Dünyasına Adım At!
 Artık animeleri bulmak, izlemek ve keyif almak çok kolay. Anime dünyasının kapılarını AnimeWatchTR ile aralayın.
 
 <a href="https://animewatchtrr.blogspot.com/?m=1" target="_blank" style="display:inline-block;padding:12px 24px;background-color:#ff4b5c;color:#fff;text-decoration:none;font-weight:bold;border-radius:8px;font-family:sans-serif;">Anime İzlemeye Başla</a>
+
 Anime izlemek hiç bu kadar kolay olmamıştı!
